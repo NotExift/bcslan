@@ -22,6 +22,7 @@
     "de_anubis",
     "de_ancient"
   ],
+  "skip_veto": false,
   "spectators": {
     "players": {
       "76561198264582285": "Anders Blume"
@@ -32,5 +33,6 @@
   "cvars": {
     "hostname": "test",
     "mp_friendlyfire": "0"
+    "skip_veto": false
   }
 }
