@@ -1,0 +1,44 @@
+{
+  "matchid": "22",
+  "team1": {
+    "name": "Team3",
+    "players": {
+      "76561198116226056":"mikey_5807",
+      "76561198060907514":"tier2redpowergod",
+      "76561198281110635":"gardant",
+      "76561198205222241":"_poroking",
+      "76561199343413733":"vax1ee"
+    }
+  },
+  "team2": {
+    "name": "Team2",
+    "players": {
+      "76561199036188426":"w1nter_cga",
+      "76561198210631635":"tshp",
+      "76561198350890296":"carson",
+      "76561198113350737":"ennerps",
+      "76561199046404535":"alfonwo"
+    }
+  },
+  "num_maps": 1,
+  "maplist": [
+    "de_mirage",
+    "de_overpass",
+    "de_inferno",
+    "de_vertigo",
+    "de_nuke",
+    "de_anubis",
+    "de_ancient"
+  ],
+  "map_sides": [
+    "knife"
+  ],
+  "skip_veto": false,
+  "clinch_series": true,
+  "players_per_team": 5,
+  "cvars": {
+    "hostname": "Round2: Team 2 Vs. Team 3",
+    "mp_friendlyfire": "0",
+    "skip_veto": false
+  }
+}

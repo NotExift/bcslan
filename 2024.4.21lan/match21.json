@@ -1,0 +1,44 @@
+{
+  "matchid": "21",
+  "team1": {
+    "name": "Team1",
+    "players": {
+      "76561198176189773":"alt_cs",
+      "76561198269635740":"kaiser195",
+      "76561198368540894":"xsascha",
+      "76561198310420056":".lucaluca448",
+      "76561198880272324":"kkkkkek"
+    }
+  },
+  "team2": {
+    "name": "Team4",
+    "players": {
+      "76561198061514709":"lect",
+      "76561198848870789":"diossuerte",
+      "76561198036881628":"pibby16",
+      "76561198410297602":".cuh",
+      "76561198836462723":"myst"
+    }
+  },
+  "num_maps": 1,
+  "maplist": [
+    "de_mirage",
+    "de_overpass",
+    "de_inferno",
+    "de_vertigo",
+    "de_nuke",
+    "de_anubis",
+    "de_ancient"
+  ],
+  "map_sides": [
+    "knife"
+  ],
+  "skip_veto": false,
+  "clinch_series": true,
+  "players_per_team": 5,
+  "cvars": {
+    "hostname": "Round2: Team 1 Vs. Team 4",
+    "mp_friendlyfire": "0",
+    "skip_veto": false
+  }
+}
